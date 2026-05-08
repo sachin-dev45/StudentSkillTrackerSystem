@@ -128,8 +128,7 @@ public class StudentService {
 						{
 							extSkill.setLevel(k.getLevel());
 						}
-						//extSkill.setSkillName(k.getSkillName());
-						//extSkill.setLevel(k.getLevel());
+						
 					}
 					
 				}
